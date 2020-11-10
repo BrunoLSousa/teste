@@ -1,4 +1,4 @@
 # teste
 
 
-*LCOM&ast;*
+- *LCOM&ast; (Lack of Cohesion of Methods)*:
