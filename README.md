@@ -1,5 +1,5 @@
 # teste
 
-&ast
+&ast;
 
-*LCOM* ADFASASD*
+*LCOM* *
