@@ -1,5 +1,4 @@
 # teste
 
-&ast;
 
-*LCOM* *
+*LCOM&ast; *
