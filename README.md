@@ -1,3 +1,5 @@
 # teste
 
 &ast
+
+*LCOM* *
