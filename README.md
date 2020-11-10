@@ -2,4 +2,4 @@
 
 &ast
 
-*LCOM* *
+*LCOM* ADFASASD*
